@@ -1,3 +1,5 @@
 ceci est un nouveau fichier!!
 //lol
+ajout2
+ainsi qu'une AUTRE ligne
 ajout1
